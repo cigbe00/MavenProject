@@ -10,7 +10,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author ChinChinYon
+ * @author cigbe
  */
 public class BinarySearch {
     
